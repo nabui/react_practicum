@@ -2,20 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceec0d8f-9c5f-4689-ad4b-0d694234edc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResetButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Wis59BP0tGv4iaXmPSAWViXfC5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,11 +43,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-darwin-x64/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -68,11 +95,84 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579643563571</updated>
-      <workItem from="1579643565975" duration="511000" />
+      <workItem from="1579643565975" duration="975000" />
+      <workItem from="1579900360503" duration="932000" />
+      <workItem from="1580087760562" duration="100000" />
+      <workItem from="1580163921627" duration="3171000" />
+      <workItem from="1580237495146" duration="4148000" />
+      <workItem from="1580245515205" duration="5110000" />
+      <workItem from="1580506205758" duration="2213000" />
+      <workItem from="1580511488397" duration="834000" />
+      <workItem from="1580839958927" duration="503000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1579644488791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579644488791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test Commit 1">
+      <created>1580172712555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580172712555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Test Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579644696680">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1579644696680" />
+    <state x="611" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580245673872">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="611" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580245673872" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580173295219" />
+    <state x="367" y="127" key="CommitChangelistDialog2" timestamp="1580840576623">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="367" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1580840576623" />
+    <state x="419" y="131" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1580172712385" />
+    <state width="1659" height="253" key="GridCell.Tab.0.bottom" timestamp="1580840576686">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="253" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580840576686" />
+    <state width="1659" height="253" key="GridCell.Tab.0.center" timestamp="1580840576684">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="253" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580840576684" />
+    <state width="1659" height="253" key="GridCell.Tab.0.left" timestamp="1580840576684">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="253" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580840576684" />
+    <state width="1659" height="253" key="GridCell.Tab.0.right" timestamp="1580840576685">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="253" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580840576685" />
+    <state x="545" y="243" key="RollbackChangesDialog" timestamp="1580242574209">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="545" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580242574209" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1579906205853">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1579906205853" />
+    <state x="503" y="273" key="Vcs.Push.Dialog.v2" timestamp="1580172737537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1579644510817" />
+    <state x="503" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1580172737537" />
   </component>
 </project>
